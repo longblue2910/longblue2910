@@ -80,30 +80,6 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=longblue2910&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://www.facebook.com/tien.long.900" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tlongdev-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tlongdev-linkedin" />
-  </a>
-  <a href="https://www.instagram.com/rimdasilva_" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="tlongdev-instagram" />
-  </a>
-  <a href="mailto:tienlong291099@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tlongdev-email" />
-  </a>
-</div>
-
-<br>
-
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/tlongdev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
