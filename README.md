@@ -1,6 +1,6 @@
 <!-- tlongdev -->
 <a href="#" target="_blank">
-  <img src="svg/tlong.svg" width="1200" alt="tlongdev-official" />
+  <h2 align="center">Hello world ! I'm Long</h2>
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -73,7 +73,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="rimdasilva">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longblue2910&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Trungquandev">
@@ -82,5 +82,5 @@
 </div>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/tlongdev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/tlongdev-quotes.svg" width="846" height="150" alt="rimdasilva-official" />
 </a>
