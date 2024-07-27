@@ -1,6 +1,6 @@
 <!-- tlongdev -->
 <a href="#" target="_blank">
-  <h2 align="center">Hello world ! I'm Long</h2>
+  <h2 align="center">Hello world ! I'm Long a.k.a rimdasilva</h2>
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
