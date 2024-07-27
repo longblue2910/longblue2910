@@ -61,10 +61,6 @@
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=#FF6C37" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=#85EA2D" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visual-studio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
