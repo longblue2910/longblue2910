@@ -8,8 +8,6 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=.NET&logoColor=512BD4" alt="NET logo" title="NET" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Ruby on Rails-282C34?logo=rubyonrails&logoColor=CC0000" alt="microsoftsqlserver logo" title="Microsoft Sql Server" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Microsoft Sql Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="microsoftsqlserver logo" title="Microsoft Sql Server" height="25" /></span>
